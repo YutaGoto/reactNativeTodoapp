@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "rules": {
+    "react/prefer-stateless-function": 0,
+    "react/jsx-filename-extension": 0,
+    "react/no-multi-comp": 0,
+    "react/jsx-wrap-multilines": 0,
+    "implicit-arrow-linebreak": 0,
+    "no-console": 0,
+    "arrow-body-style": 0
+  },
+  "parser": "babel-eslint"
+}
